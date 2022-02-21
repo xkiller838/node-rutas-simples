@@ -1,3 +1,4 @@
+//Este codigo es de ejemplo
 const express = require('express') //llamamos a Express
 const router = express()           
 const cors = require('cors')
