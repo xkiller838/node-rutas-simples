@@ -1,3 +1,4 @@
+//esta es solo de prueba
 const express = require('express') //llamamos a Express
 const router = express()           
 const cors = require('cors')
