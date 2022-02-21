@@ -1,4 +1,5 @@
 //esta es solo de prueba
+// revisar para https://github.com/socketio/socket.io-p2p
 const express = require('express') //llamamos a Express
 const router = express()           
 const cors = require('cors')
